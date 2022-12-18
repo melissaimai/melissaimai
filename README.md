@@ -19,11 +19,11 @@
 ### 👩🏻‍💻 About Me :
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. Currently, I live in Berlin, Germany.
 
-- :seedling: I am graduated from the Web Development Bootcamp at Ironhack Germany. 🏆 My project was voted as one of the best projects from the cohort, invited to present at the Hackshow.
+:seedling: I am graduated from the Web Development Bootcamp at Ironhack Germany. 🏆 My project was voted as one of the best projects from the cohort, invited to present at the Hackshow.
 
-- :woman_student: I am also graduated in System Analysis & Development and Environmental Engineering.
+:woman_student: I am also graduated in System Analysis & Development and Environmental Engineering.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-melissaimai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melissaimai/)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-melissaimai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melissaimai/)
 
 ---
 
