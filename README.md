@@ -40,6 +40,14 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melissaimai&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 </br>
 <div id="header" align="center">
  <img src="https://camo.githubusercontent.com/7998890254268d8ed476c9f66d3fa59d21dd354d2090036083c82af4cda2a0eb/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/>
